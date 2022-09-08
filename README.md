@@ -17,7 +17,7 @@ Este es un archivo creado en excel tomando datos de las tablas creadas anteriorm
  clic en grafico circular
  
  5to
- adaptamos el grafico el tamano del grafico y donde lo queremos y asi con todas las tablas independientemente.
+ adaptamos el tamano del grafico y posiciono donde lo quiero y asi con todas las tablas independientemente.
  
  6to
  guardamos los cambios del archivo de excel.
